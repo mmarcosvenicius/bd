@@ -207,5 +207,16 @@
       "formaPagamento": "dinheiro",
       "id": 3
     }
+  ],
+  "users": [
+      {
+          "username": "_erick",
+          "guest": {
+              "success": true,
+              "guest_session_id": "1cd74ac47d722a40ffea4797f9c19e32",
+              "expires_at": "2021-03-06 19:48:14 UTC"
+          },
+          "id": 3
+      }
   ]
 }
